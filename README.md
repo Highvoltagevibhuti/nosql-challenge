@@ -27,6 +27,7 @@ Hint: The London Local Authority has a longer name than "London" so you will nee
 
 Hint: You will need to compare the geocode to find the nearest locations. Search within 0.01 degree on either side of the latitude and longitude.
 
+**Check jupiter notebook** 
 
 4. How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 
@@ -34,12 +35,21 @@ Hint: You will need to use the aggregation method to answer this.
 
 	_id	count
 0	Thanet	1130
+
 1	Greenwich	882
+
 2	Maidstone	713
+
 3	Newham	711
+
 4	Swale	686
+
 5	Chelmsford	680
+
 6	Medway	672
+
 7	Bexley	607
+
 8	Southend-On-Sea	586
+
 9	Tendring	542
